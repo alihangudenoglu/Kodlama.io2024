@@ -1,0 +1,15 @@
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\bin\Debug\net8.0\Business.dll
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\bin\Debug\net8.0\Entities.dll
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\bin\Debug\net8.0\Entities.pdb
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\obj\Debug\net8.0\Business.dll
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\Sfenks\Desktop\kodlamalar\Kodlama.io2024\MaskTracking\Business\obj\Debug\net8.0\ref\Business.dll
